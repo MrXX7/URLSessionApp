@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct URLSessionAppApp: App {
+struct URLSessionApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
